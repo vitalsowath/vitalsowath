@@ -11,7 +11,7 @@
 
 <p align="left"> <samp>
 - 👨🏽‍💻 I’m currently working on iOS Projects;<br>
-- 🌱 I’m currently learning Swift and Objective-C;<br>
+- 🌱 I’m currently learning Swift, Objective-C and Kotlin;<br>
 
 ### Languages and Tools:
 
